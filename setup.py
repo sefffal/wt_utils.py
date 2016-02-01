@@ -10,7 +10,6 @@ setup(
     keywords='jupyter ipython notebook animation',
     author='Will Thompson',
     author_email='12wt9@queensu.ca',
-    packages='wt_utils/__init__.py',
     include_package_data=True,
     py_modules=['wt_utils/__init__.py']
     # ...
