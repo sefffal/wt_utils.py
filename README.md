@@ -1,2 +1,6 @@
 # wt_utils.py
-Python Utils for Jupyter Notebooks
+__Utilities for Python Jupyter Notebooks__
+
+Utilities:
+
+1. [Animation](./examples/animation.ipynb)
