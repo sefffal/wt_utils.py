@@ -12,5 +12,6 @@ setup(
     author_email='12wt9@queensu.ca',
     packages='wt_utils',
     include_package_data=True,
+    py_modules=['wt_utils']
     # ...
 )
